@@ -1,0 +1,29 @@
+.jumbotron{
+    background-color: blueviolet;
+    color: cornsilk;
+    box-sizing: border-box;
+    text-transform: none;
+    max-width: 100%;
+    text-align:none;
+    float: both;
+    margin:0;
+}
+.footer{
+    background-color: lightblue;
+    margin: 0;
+}
+.col-xl-6{
+    margin-bottom: 80px;
+}
+.task{
+    margin-top: 50px;
+}
+.ta{
+    margin-bottom: 50px;
+}
+p{
+    font-weight: 500px;
+}
+.hr{
+    border:1px solid;
+}
